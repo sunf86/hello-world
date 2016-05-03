@@ -1,2 +1,2 @@
 # hello-world
-Just practice repository
+I started with GitHub.
